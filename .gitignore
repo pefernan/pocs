@@ -1,0 +1,22 @@
+**/target
+**/WEB-INF/classes
+/local
+**/gwt-unitCache/
+**/WEB-INF/deploy/
+**/WEB-INF/lib/
+**/src/main/webapp/livespark/
+**/webapp/org.livespark.*/
+
+# Eclipse, Netbeans and IntelliJ files
+/.*
+/**/.*
+!.gitignore
+/nbproject
+/*.ipr
+/*.iws
+/*.iml
+.niojgit
+*.iml
+
+# Repository wide ignore mac DS_Store files
+.DS_Store

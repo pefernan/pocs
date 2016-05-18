@@ -1,0 +1,1 @@
+Hidding widgets via annotation
